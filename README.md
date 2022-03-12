@@ -1,4 +1,4 @@
-# Automechanics Speak To Robots Obnoxiously
+# Automechanics Speak To Robots Obnoxiously/Obviosly
 
 ## Problem: 
 Robotics, self-driving cars, artifical intelligence and other emerging technologies are disrupters which are very interesting, but will displace a lot of people from their current jobs.
